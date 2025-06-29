@@ -3,7 +3,7 @@
 
 ![](https://skillicons.dev/icons?i=kali,php,python,java,typescript,js,html,css)<br>
 ![](https://skillicons.dev/icons?i=vscode,vue,react,git,npm,github,nodejs,nextjs)
-<h1>THIS IS MY PRIVATE ACCOUNT</h1><br>
+<h1>MY PRIVATE ACCOUNT</h1><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shojimasat1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shojimasat1021&theme=chartreuse_dark)
@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shojimasat1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shojimasat1021&theme=chartreuse_dark&utcOffset=8)
 
-<h1>THIS IS MY SCHOOL ACCOUNT</h1><br>
+<h1>MY SCHOOL ACCOUNT</h1><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoji1021&theme=chartreuse_dark)
