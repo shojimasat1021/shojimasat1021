@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shojimasat1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shojimasat1021&theme=chartreuse_dark&utcOffset=8)
 
-THIS IS MY SCHOOL ACCOUNT
+THIS IS MY SCHOOL ACCOUNT<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoji1021&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoji1021&theme=chartreuse_dark)
